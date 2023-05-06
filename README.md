@@ -9,3 +9,6 @@
   #2.Reza Sapitri-2055201030
   #3.Mutiara Anisa-2055201037
   #4.Riska Paradisona-2055201124
+  
+#Link Video Demo Aplikas
+# https://youtu.be/FIspRHc7Hyw
